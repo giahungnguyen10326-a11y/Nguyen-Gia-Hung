@@ -1,0 +1,7 @@
+{
+  "name": "Pixel Hero: Cuộc Chiến Bất Tận",
+  "description": "Game nhập vai sinh tồn đồ họa pixel 2D với 5 class độc nhất, đánh quái thăng cấp, săn boss rơi trang bị hiếm và tiến hóa sức mạnh vô hạn.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
